@@ -17,7 +17,7 @@ If you find this project useful, please cite:
 ```
 
 ## Note
-Please unzip the gspbox.zip and utils.zip in their directory.
+Please unzip the gspbox.zip and utils.zip in this directory.
 
 This demo requires Matlab environment and GPU. (GPU accelerates the KNN, and users can convert to CPU.)
 
