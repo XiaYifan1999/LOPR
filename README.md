@@ -1,4 +1,4 @@
-# LOPR
+# LOPR - AAAI 2024
 Matlab implementation for AAAI 2024 paper LOPR:
 
 Yifan Xia, Yifan Lu, Yuan Gao, and Jiayi Ma*. "Locality Preserving Refinement for Shape Matching with Functional Maps", in Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Feb. 2024.
@@ -16,6 +16,9 @@ If you find this project useful, please cite:
 }
 ```
 
-# Please remember to unzip the `gspbox.zip' and `utils.zip' in the directory.
+## Note
+Please unzip the `gspbox.zip' and `utils.zip' in the directory.
+
+This demo requires Matlab environment and GPU. (GPU accelerates the KNN, and users can convert to CPU.)
 
 
