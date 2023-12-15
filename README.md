@@ -16,4 +16,6 @@ If you find this project useful, please cite:
 }
 ```
 
+# Please remember to unzip the `gspbox.zip' and `utils.zip' in the directory.
+
 
