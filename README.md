@@ -1,4 +1,4 @@
-# LOPR - AAAI 2024
+# LOPR - shape matching
 Matlab implementation for AAAI 2024 paper LOPR:
 
 Yifan Xia, Yifan Lu, Yuan Gao, and Jiayi Ma*. "Locality Preserving Refinement for Shape Matching with Functional Maps", in Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Feb. 2024.
