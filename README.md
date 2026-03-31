@@ -27,4 +27,6 @@ This demo requires Matlab environment and GPU. (GPU accelerates the KNN, and use
 ## Run the exemplary code
 Run the demo.m.
 
+## Acknowledge
 
+The framework implementation is adapted from [MWP](https://github.com/Qinsong-Li/MWP) and [GCPD](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift)
